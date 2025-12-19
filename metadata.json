@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sentix: Review Classifier Pro",
+  "description": "A high-performance sentiment analysis dashboard that compares Lexicon-based scoring against Machine Learning reasoning for Amazon and IMDb reviews.",
+  "requestFramePermissions": []
+}
